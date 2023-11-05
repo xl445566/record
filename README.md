@@ -1,6 +1,6 @@
 # 개발공부 기록 Repository
-### - [Algorithm](#algorithm)
-### - [Development](#development)
+### [Algorithm](#algorithm)
+### [Development](#development)
 
 <br/>
 
