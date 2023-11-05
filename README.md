@@ -1,4 +1,4 @@
-# 개발공부 기록 Repository
+# Daily Dev Repository
 ### [Algorithm](#algorithm)
 ### [Development](#development)
 
